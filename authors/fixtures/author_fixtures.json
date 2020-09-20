@@ -1,0 +1,20 @@
+[
+  {
+    "model": "authors.movie",
+    "pk": 1,
+    "fields": {
+      "name": "Star1",
+      "genre": "Lennon",
+      "date_of_release": "1980-01-01"
+    }
+  },
+  {
+    "model": "authors.movie",
+    "pk": 2,
+    "fields": {
+      "name": "Star2",
+      "genre": "Lennon",
+      "date_of_release": "1980-01-01"
+    }
+  }
+]
